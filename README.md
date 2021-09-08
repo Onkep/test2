@@ -1,2 +1,2 @@
 # test2
-This is  a description.
+This is  a repository for Onkep's practice.
