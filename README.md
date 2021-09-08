@@ -1,4 +1,2 @@
 # test2
-
-This is  a repository for Onkep's practice.
-
+This is  a repository for Onkep's git.
